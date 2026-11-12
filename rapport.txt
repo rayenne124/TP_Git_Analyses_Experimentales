@@ -1,0 +1,10 @@
+Git est un outil indispensable pour sauvegarder l'historique de notre travail experimental.
+Il est tres utile car il permet de ne jamais perdre nos resultats, de revenir en arriere en cas d'erreur et de suivre toutes les modifications de nos fichiers.
+Grace a GitHub, nous pouvons stocker nos protocoles et nos rapports en ligne de maniere securisee et y acceder depuis n'importe ou.
+Dans ce TP, j'ai appris a cloner un depot dans Google Colab, a creer un fichier rapport.txt, a faire un add, un commit, un push vers GitHub et a creer une nouvelle branche.
+
+Mon idee de projet pour Analyses Experimentales en Bio-Industrie :
+Je souhaite versionner un projet de controle qualite microbiologique et physico-chimique des produits laitiers.
+L'objectif est d'enregistrer chaque etape : echantillonnage, analyses, resultats et interpretation selon les normes de qualite.
+L'utilisation de Git me permettra d'assurer une tracabilite totale et une organisation rigoureuse de mes experiences.
+
